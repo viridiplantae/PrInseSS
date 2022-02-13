@@ -1,4 +1,3 @@
-
 #!/bin/bash
 ARGS=$(getopt -a --options d:f:h,v --long "data:,file:,help,version" -- "$@")
 
